@@ -1,0 +1,3 @@
+http://codingbat.com/java
+http://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/Czrwt/core-working-with-strings-in-java
